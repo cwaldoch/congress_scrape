@@ -1,0 +1,442 @@
+index,state,name,district,party,room,phone,committees
+0,AL,"Byrne, Bradley",1,R,119 CHOB,202-225-4931,"Armed Services, Education and the Workforce, Rules"
+1,AL,"Roby, Martha",2,R,442 CHOB,202-225-2901,"Appropriations, the Judiciary"
+2,AL,"Rogers, Mike",3,R,2184 RHOB,202-225-3261,"Agriculture, Armed Services, Homeland Security"
+3,AL,"Aderholt, Robert",4,R,235 CHOB,202-225-4876,Appropriations
+4,AL,"Brooks, Mo",5,R,2400 RHOB,202-225-4801,"Armed Services, Foreign Affairs, Science, Space, and Technology"
+5,AL,"Palmer, Gary",6,R,330 CHOB,202-225-4921,"Oversight and Government, Science, Space, and Technology, the Budget"
+6,AL,"Sewell, Terri A.",7,D,2201 RHOB,202-225-2665,"Intelligence (Permanent), Ways and Means"
+7,AQ,"Young, Don",At Large,R,2314 RHOB,202-225-5765,"Natural Resources, Transportation"
+8,AK,"Radewagen, Amata",At Large,R,1339 LHOB,202-225-8577,"Natural Resources, Small Business, Veterans' Affairs"
+9,AZ,"O'Halleran, Tom",1,D,126 CHOB,202-225-3361,Agriculture
+10,AZ,"McSally, Martha",2,R,510 CHOB,202-225-2542,"Armed Services, Homeland Security"
+11,AZ,"Grijalva, Raul",3,D,1511 LHOB,202-225-2435,"Education and the Workforce, Natural Resources"
+12,AZ,"Gosar, Paul A.",4,R,2057 RHOB,202-225-2315,"Natural Resources, Oversight and Government"
+13,AZ,"Biggs, Andy",5,R,1626 LHOB,202-225-2635,"Science, Space, and Technology, the Judiciary"
+14,AZ,"Schweikert, David",6,R,2059 RHOB,202-225-2190,Ways and Means
+15,AZ,"Gallego, Ruben",7,D,1218 LHOB,202-225-4065,"Armed Services, Natural Resources"
+16,AZ,"Franks, Trent",8,R,2435 RHOB,202-225-4576,"Armed Services, the Judiciary"
+17,AZ,"Sinema, Kyrsten",9,D,1725 LHOB,202-225-9888,Financial Services
+18,AR,"Crawford, Rick",1,R,2422 RHOB,202-225-4076,"Agriculture, Intelligence (Permanent), Transportation"
+19,AR,"Hill, French",2,R,1229 LHOB,202-225-2506,Financial Services
+20,AR,"Womack, Steve",3,R,2412 RHOB,202-225-4301,"Appropriations, the Budget"
+21,AR,"Westerman, Bruce",4,R,130 CHOB,202-225-3772,"Natural Resources, the Budget, Transportation"
+22,CA,"LaMalfa, Doug",1,R,322 CHOB,202-225-3076,"Agriculture, Natural Resources, Transportation"
+23,CA,"Huffman, Jared",2,D,1406 LHOB,202-225-5161,"Natural Resources, Transportation"
+24,CA,"Garamendi, John",3,D,2438 RHOB,202-225-1880,"Armed Services, Transportation"
+25,CA,"McClintock, Tom",4,R,2312 RHOB,202-225-2511,"Natural Resources, the Budget"
+26,CA,"Thompson, Mike",5,D,231 CHOB,202-225-3311,Ways and Means
+27,CA,"Matsui, Doris O.",6,D,2311 RHOB,202-225-7163,Energy and Commerce
+28,CA,"Bera, Ami",7,D,1431 LHOB,202-225-5716,"Foreign Affairs, Science, Space, and Technology"
+29,CA,"Cook, Paul",8,R,1222 LHOB,202-225-5861,"Armed Services, Foreign Affairs, Natural Resources"
+30,CA,"McNerney, Jerry",9,D,2265 RHOB,202-225-1947,Energy and Commerce
+31,CA,"Denham, Jeff",10,R,1730 LHOB,202-225-4540,"Agriculture, Natural Resources, Transportation"
+32,CA,"DeSaulnier, Mark",11,D,115 CHOB,202-225-2095,"Education and the Workforce, Transportation"
+33,CA,"Pelosi, Nancy",12,D,233 CHOB,202-225-4965,
+34,CA,"Lee, Barbara",13,D,2267 RHOB,202-225-2661,"Appropriations, the Budget"
+35,CA,"Speier, Jackie",14,D,2465 RHOB,202-225-3531,"Armed Services, Intelligence (Permanent)"
+36,CA,"Swalwell, Eric",15,D,129 CHOB,202-225-5065,"Intelligence (Permanent), the Judiciary"
+37,CA,"Costa, Jim",16,D,2081 RHOB,202-225-3341,"Agriculture, Natural Resources"
+38,CA,"Khanna, Ro",17,D,513 CHOB,202-225-2631,"Armed Services, the Budget"
+39,CA,"Eshoo, Anna G.",18,D,241 CHOB,202-225-8104,Energy and Commerce
+40,CA,"Lofgren, Zoe",19,D,1401 LHOB,202-225-3072,"House Administration, Science, Space, and Technology, the Judiciary"
+41,CA,"Panetta, Jimmy",20,D,228 CHOB,202-225-2861,"Agriculture, Natural Resources"
+42,CA,"Valadao, David",21,R,1728 LHOB,202-225-4695,Appropriations
+43,CA,"Nunes, Devin",22,R,1013 LHOB,202-225-2523,"Intelligence (Permanent), Ways and Means"
+44,CA,"McCarthy, Kevin",23,R,2421 RHOB,202-225-2915,
+45,CA,"Carbajal, Salud",24,D,212 CHOB,202-225-3601,"Armed Services, the Budget"
+46,CA,"Knight, Steve",25,R,1023 LHOB,202-225-1956,"Armed Services, Science, Space, and Technology, Small Business"
+47,CA,"Brownley, Julia",26,D,1019 LHOB,202-225-5811,"Transportation, Veterans' Affairs"
+48,CA,"Chu, Judy",27,D,2423 RHOB,202-225-5464,"Small Business, the Judiciary"
+49,CA,"Schiff, Adam",28,D,2372 RHOB,202-225-4176,Intelligence (Permanent)
+50,CA,"Cárdenas, Tony",29,D,1510 LHOB,202-225-6131,Energy and Commerce
+51,CA,"Sherman, Brad",30,D,2181 RHOB,202-225-5911,"Financial Services, Foreign Affairs"
+52,CA,"Aguilar, Pete",31,D,1223 LHOB,202-225-3201,"Appropriations, Armed Services"
+53,CA,"Napolitano, Grace",32,D,1610 LHOB,202-225-5256,"Natural Resources, Transportation"
+54,CA,"Lieu, Ted",33,D,236 CHOB,202-225-3976,"Foreign Affairs, the Judiciary"
+55,CA,"Becerra, Xavier",34,D,1226 LHOB,202-225-6235,Ways and Means
+56,CA,"Torres, Norma",35,D,1713 LHOB,202-225-6161,"Foreign Affairs, Natural Resources"
+57,CA,"Ruiz, Raul",36,D,1319 LHOB,202-225-5330,Energy and Commerce
+58,CA,"Bass, Karen",37,D,2241 RHOB,202-225-7084,"Foreign Affairs, the Judiciary"
+59,CA,"Sánchez, Linda",38,D,2329 RHOB,202-225-6676,"Ethics, Ways and Means"
+60,CA,"Royce, Ed",39,R,2310 RHOB,202-225-4111,"Financial Services, Foreign Affairs"
+61,CA,"Roybal-Allard, Lucille",40,D,2083 RHOB,202-225-1766,Appropriations
+62,CA,"Takano, Mark",41,D,1507 LHOB,202-225-2305,"Education and the Workforce, Veterans' Affairs"
+63,CA,"Calvert, Ken",42,R,2205 RHOB,202-225-1986,Appropriations
+64,CA,"Waters, Maxine",43,D,2221 RHOB,202-225-2201,Financial Services
+65,CA,"Barragán, Nanette",44,D,1320 LHOB,202-225-8220,"Homeland Security, Natural Resources"
+66,CA,"Walters, Mimi",45,R,215 CHOB,202-225-5611,Energy and Commerce
+67,CA,"Correa, J. Luis",46,D,1039 LHOB,202-225-2965,"Homeland Security, Veterans' Affairs"
+68,CA,"Lowenthal, Alan",47,D,125 CHOB,202-225-7924,"Natural Resources, Transportation"
+69,CA,"Rohrabacher, Dana",48,R,2300 RHOB,202-225-2415,"Foreign Affairs, Science, Space, and Technology"
+70,CA,"Issa, Darrell",49,R,2269 RHOB,202-225-3906,"Foreign Affairs, Oversight and Government, the Judiciary"
+71,CA,"Hunter, Duncan D.",50,R,2429 RHOB,202-225-5672,"Armed Services, Education and the Workforce, Transportation"
+72,CA,"Vargas, Juan",51,D,1605 LHOB,202-225-8045,Financial Services
+73,CA,"Peters, Scott",52,D,1122 LHOB,202-225-0508,"Armed Services, Energy and Commerce"
+74,CA,"Davis, Susan",53,D,1214 LHOB,202-225-2040,"Armed Services, Education and the Workforce"
+75,CO,"DeGette, Diana",1,D,2111 RHOB,202-225-4431,Energy and Commerce
+76,CO,"Polis, Jared",2,D,1727 LHOB,202-225-2161,"Education and the Workforce, Rules"
+77,CO,"Tipton, Scott",3,R,218 CHOB,202-225-4761,"Financial Services, Natural Resources"
+78,CO,"Buck, Ken",4,R,1130 LHOB,202-225-4676,"Rules, the Judiciary"
+79,CO,"Lamborn, Doug",5,R,2402 RHOB,202-225-4422,"Armed Services, Natural Resources"
+80,CO,"Coffman, Mike",6,R,2443 RHOB,202-225-7882,"Armed Services, Veterans' Affairs"
+81,CO,"Perlmutter, Ed",7,D,1410 LHOB,202-225-2645,Financial Services
+82,CT,"Larson, John B.",1,D,1501 LHOB,202-225-2265,Ways and Means
+83,CT,"Courtney, Joe",2,D,2348 RHOB,202-225-2076,"Armed Services, Education and the Workforce"
+84,CT,"DeLauro, Rosa L.",3,D,2413 RHOB,202-225-3661,Appropriations
+85,CT,"Himes, Jim",4,D,1227 LHOB,202-225-5541,"Financial Services, Intelligence (Permanent)"
+86,CT,"Esty, Elizabeth",5,D,221 CHOB,202-225-4476,"Science, Space, and Technology, Transportation"
+87,DE,"Blunt Rochester, Lisa",At Large,D,1123 LHOB,202-225-4165,"Agriculture, Education and the Workforce"
+88,DC,"Norton, Eleanor Holmes",At Large,D,2136 RHOB,202-225-8050,"Oversight and Government, Transportation"
+89,FL,"Gaetz, Matt",1,R,507 CHOB,202-225-4136,"Armed Services, the Budget, the Judiciary"
+90,FL,"Dunn, Neal",2,R,423 CHOB,202-225-5235,"Agriculture, Science, Space, and Technology, Veterans' Affairs"
+91,FL,"Yoho, Ted",3,R,511 CHOB,202-225-5744,"Agriculture, Foreign Affairs"
+92,FL,"Rutherford, John",4,R,230 CHOB,202-225-2501,"Homeland Security, Veterans' Affairs"
+93,FL,"Lawson, Al",5,D,1337 LHOB,202-225-0123,Agriculture
+94,FL,"DeSantis, Ron",6,R,1524 LHOB,202-225-2706,"Foreign Affairs, Oversight and Government, the Judiciary"
+95,FL,"Murphy, Stephanie",7,D,1237 LHOB,202-225-4035,"Armed Services, Small Business"
+96,FL,"Posey, Bill",8,R,2150 RHOB,202-225-3671,"Financial Services, Science, Space, and Technology"
+97,FL,"Soto, Darren",9,D,1429 LHOB,202-225-9889,"Agriculture, Natural Resources"
+98,FL,"Demings, Val",10,D,238 CHOB,202-225-2176,"Homeland Security, Oversight and Government"
+99,FL,"Webster, Daniel",11,R,1210 LHOB,202-225-1002,"Natural Resources, Science, Space, and Technology, Transportation"
+100,FL,"Bilirakis, Gus M.",12,R,2112 RHOB,202-225-5755,"Energy and Commerce, Veterans' Affairs"
+101,FL,"Crist, Charlie",13,D,427 CHOB,202-225-5961,Financial Services
+102,FL,"Castor, Kathy",14,D,2052 RHOB,202-225-3376,Energy and Commerce
+103,FL,"Ross, Dennis",15,R,436 CHOB,202-225-1252,"Financial Services, Oversight and Government"
+104,FL,"Buchanan, Vern",16,R,2104 RHOB,202-225-5015,Ways and Means
+105,FL,"Rooney, Tom",17,R,2160 RHOB,202-225-5792,"Appropriations, Intelligence (Permanent)"
+106,FL,"Mast, Brian",18,R,2182 RHOB,202-225-3026,"Foreign Affairs, Transportation"
+107,FL,"Rooney, Francis",19,R,120 CHOB,202-225-2536,"Education and the Workforce, Foreign Affairs"
+108,FL,"Hastings, Alcee L.",20,D,2353 RHOB,202-225-1313,Rules
+109,FL,"Frankel, Lois",21,D,1037 LHOB,202-225-9890,"Foreign Affairs, Transportation"
+110,FL,"Deutch, Ted",22,D,2447 RHOB,202-225-3001,"Foreign Affairs, the Judiciary"
+111,FL,"Wasserman Schultz, Debbie",23,D,1114 LHOB,202-225-7931,"Appropriations, the Budget"
+112,FL,"Wilson, Frederica",24,D,2445 RHOB,202-225-4506,"Education and the Workforce, Transportation"
+113,FL,"Diaz-Balart, Mario",25,R,440 CHOB,202-225-4211,"Appropriations, the Budget"
+114,FL,"Curbelo, Carlos",26,R,1404 LHOB,202-225-2778,Ways and Means
+115,FL,"Ros-Lehtinen, Ileana",27,R,2206 RHOB,202-225-3931,"Foreign Affairs, Intelligence (Permanent)"
+116,GA,"Carter, Buddy",1,R,432 CHOB,202-225-5831,Energy and Commerce
+117,GA,"Bishop Jr., Sanford D.",2,D,2407 RHOB,202-225-3631,Appropriations
+118,GA,"Ferguson, A. Drew",3,R,1032 LHOB,202-225-5901,"Education and the Workforce, the Budget, Transportation"
+119,GA,"Johnson, Henry C. ""Hank"" Jr.",4,D,2240 RHOB,202-225-1605,"the Judiciary, Transportation"
+120,GA,"Lewis, John",5,D,343 CHOB,202-225-3801,Ways and Means
+121,GA,"Price, Tom",6,R,1211 LHOB,202-225-4501,"the Budget, Ways and Means"
+122,GA,"Woodall, Robert",7,R,1724 LHOB,202-225-4272,"Rules, the Budget, Transportation"
+123,GA,"Scott, Austin",8,R,2417 RHOB,202-225-6531,"Agriculture, Armed Services"
+124,GA,"Collins, Doug",9,R,1504 LHOB,202-225-9893,"Rules, the Judiciary"
+125,GA,"Hice, Jody",10,R,324 CHOB,202-225-4101,"Natural Resources, Oversight and Government"
+126,GA,"Loudermilk, Barry",11,R,329 CHOB,202-225-2931,"Financial Services, House Administration, Science, Space, and Technology"
+127,GA,"Allen, Rick",12,R,426 CHOB,202-225-2823,"Agriculture, Education and the Workforce"
+128,GA,"Scott, David",13,D,225 CHOB,202-225-2939,"Agriculture, Financial Services"
+129,GA,"Graves, Tom",14,R,2078 RHOB,202-225-5211,Appropriations
+130,GU,"Bordallo, Madeleine",At Large,D,2441 RHOB,202-225-1188,"Armed Services, Natural Resources"
+131,HI,"Hanabusa, Colleen",1,D,422 CHOB,202-225-2726,"Armed Services, Natural Resources"
+132,HI,"Gabbard, Tulsi",2,D,1433 LHOB,202-225-4906,"Armed Services, Foreign Affairs"
+133,ID,"Labrador, Raul R.",1,R,1523 LHOB,202-225-6611,"Natural Resources, the Judiciary"
+134,ID,"Simpson, Mike",2,R,2084 RHOB,202-225-5531,Appropriations
+135,IL,"Rush, Bobby L.",1,D,2188 RHOB,202-225-4372,Energy and Commerce
+136,IL,"Kelly, Robin",2,D,1239 LHOB,202-225-0773,"Foreign Affairs, Oversight and Government"
+137,IL,"Lipinski, Daniel",3,D,2346 RHOB,202-225-5701,"Science, Space, and Technology, Transportation"
+138,IL,"Gutierrez, Luis",4,D,2408 RHOB,202-225-8203,the Judiciary
+139,IL,"Quigley, Mike",5,D,2458 RHOB,202-225-4061,"Appropriations, Intelligence (Permanent)"
+140,IL,"Roskam, Peter J.",6,R,2246 RHOB,202-225-4561,Ways and Means
+141,IL,"Davis, Danny K.",7,D,2159 RHOB,202-225-5006,Ways and Means
+142,IL,"Krishnamoorthi, Raja",8,D,515 CHOB,202-225-3711,"Education and the Workforce, Oversight and Government"
+143,IL,"Schakowsky, Jan",9,D,2367 RHOB,202-225-2111,Energy and Commerce
+144,IL,"Schneider, Bradley",10,D,1432 LHOB,202-225-4835,Foreign Affairs
+145,IL,"Foster, Bill",11,D,1224 LHOB,202-225-3515,Financial Services
+146,IL,"Bost, Mike",12,R,1440 LHOB,202-225-5661,"Agriculture, Transportation, Veterans' Affairs"
+147,IL,"Davis, Rodney",13,R,1740 LHOB,202-225-2371,"Agriculture, House Administration, Transportation"
+148,IL,"Hultgren, Randy",14,R,2455 RHOB,202-225-2976,"Financial Services, Science, Space, and Technology"
+149,IL,"Shimkus, John",15,R,2217 RHOB,202-225-5271,Energy and Commerce
+150,IL,"Kinzinger, Adam",16,R,2245 RHOB,202-225-3635,"Energy and Commerce, Foreign Affairs"
+151,IL,"Bustos, Cheri",17,D,1009 LHOB,202-225-5905,"Agriculture, Transportation"
+152,IL,"LaHood,Darin",18,R,1424 LHOB,202-225-6201,"Natural Resources, Science, Space, and Technology"
+153,IN,"Visclosky, Peter",1,D,2328 RHOB,202-225-2461,Appropriations
+154,IN,"Walorski, Jackie",2,R,419 CHOB,202-225-3915,Ways and Means
+155,IN,"Banks, Jim",3,R,509 CHOB,202-225-4436,"Armed Services, Science, Space, and Technology, Veterans' Affairs"
+156,IN,"Rokita, Todd",4,R,2439 RHOB,202-225-5037,"Education and the Workforce, the Budget, Transportation"
+157,IN,"Brooks, Susan W.",5,R,1030 LHOB,202-225-2276,"Energy and Commerce, Ethics"
+158,IN,"Messer, Luke",6,R,1230 LHOB,202-225-3021,"Education and the Workforce, Financial Services"
+159,IN,"Carson, André",7,D,2135 RHOB,202-225-4011,"Intelligence (Permanent), Transportation"
+160,IN,"Bucshon, Larry",8,R,1005 LHOB,202-225-4636,Energy and Commerce
+161,IN,"Hollingsworth, Trey",9,R,1641 LHOB,202-225-5315,Financial Services
+162,IA,"Blum, Rod",1,R,1108 LHOB,202-225-2911,"Oversight and Government, Small Business"
+163,IA,"Loebsack, David",2,D,1527 LHOB,202-225-6576,Energy and Commerce
+164,IA,"Young, David",3,R,240 CHOB,202-225-5476,Appropriations
+165,IA,"King, Steve",4,R,2210 RHOB,202-225-4426,"Agriculture, Small Business, the Judiciary"
+166,KS,"Marshall, Roger",1,R,312 CHOB,202-225-2715,"Agriculture, Science, Space, and Technology, Small Business"
+167,KS,"Jenkins, Lynn",2,R,1526 LHOB,202-225-6601,Ways and Means
+168,KS,"Yoder, Kevin",3,R,2433 RHOB,202-225-2865,Appropriations
+169,KS,"Pompeo, Mike",4,R,2452 RHOB,202-225-6216,Intelligence (Permanent)
+170,KY,"Comer, James",1,R,1513 LHOB,202-225-3115,"Agriculture, Oversight and Government, Small Business"
+171,KY,"Guthrie, S. Brett",2,R,2434 RHOB,202-225-3501,"Education and the Workforce, Energy and Commerce"
+172,KY,"Yarmuth, John A.",3,D,131 CHOB,202-225-5401,the Budget
+173,KY,"Massie, Thomas",4,R,2453 RHOB,202-225-3465,"Oversight and Government, Science, Space, and Technology, Transportation"
+174,KY,"Rogers, Harold",5,R,2406 RHOB,202-225-4601,Appropriations
+175,KY,"Barr, Andy",6,R,1427 LHOB,202-225-4706,Financial Services
+176,LA,"Scalise, Steve",1,R,2338 RHOB,202-225-3015,Energy and Commerce
+177,LA,"Richmond, Cedric",2,D,420 CHOB,202-225-6636,"Homeland Security, the Judiciary"
+178,LA,"Higgins, Clay",3,R,1711 LHOB,202-225-2031,"Homeland Security, Science, Space, and Technology, Veterans' Affairs"
+179,LA,"Johnson, Mike",4,R,327 CHOB,202-225-2777,"Natural Resources, the Judiciary"
+180,LA,"Abraham, Ralph",5,R,417 CHOB,202-225-8490,"Agriculture, Armed Services, Science, Space, and Technology"
+181,LA,"Graves, Garret",6,R,430 CHOB,202-225-3901,"Natural Resources, Transportation"
+182,ME,"Pingree, Chellie",1,D,2162 RHOB,202-225-6116,Appropriations
+183,ME,"Poliquin, Bruce",2,R,1208 LHOB,202-225-6306,"Financial Services, Veterans' Affairs"
+184,MD,"Harris, Andy",1,R,1533 LHOB,202-225-5311,Appropriations
+185,MD,"Ruppersberger, C. A. Dutch",2,D,2416 RHOB,202-225-3061,Appropriations
+186,MD,"Sarbanes, John P.",3,D,2444 RHOB,202-225-4016,Energy and Commerce
+187,MD,"Brown, Anthony",4,D,1505 LHOB,202-225-8699,"Armed Services, Natural Resources"
+188,MD,"Hoyer, Steny H.",5,D,1705 LHOB,202-225-4131,
+189,MD,"Delaney, John",6,D,1632 LHOB,202-225-2721,Financial Services
+190,MD,"Cummings, Elijah",7,D,2163 RHOB,202-225-4741,"Oversight and Government, Transportation"
+191,MD,"Raskin, Jamie",8,D,431 CHOB,202-225-5341,"House Administration, Oversight and Government, the Judiciary"
+192,MA,"Neal, Richard E.",1,D,341 CHOB,202-225-5601,Ways and Means
+193,MA,"McGovern, James",2,D,438 CHOB,202-225-6101,"Agriculture, Rules"
+194,MA,"Tsongas, Niki",3,D,1714 LHOB,202-225-3411,"Armed Services, Natural Resources"
+195,MA,"Kennedy III, Joseph P.",4,D,434 CHOB,202-225-5931,Energy and Commerce
+196,MA,"Clark, Katherine",5,D,1415 LHOB,202-225-2836,Appropriations
+197,MA,"Moulton, Seth",6,D,1408 LHOB,202-225-8020,"Armed Services, the Budget"
+198,MA,"Capuano, Michael E.",7,D,1414 LHOB,202-225-5111,"Financial Services, Transportation"
+199,MA,"Lynch, Stephen F.",8,D,2268 RHOB,202-225-8273,"Financial Services, Oversight and Government"
+200,MA,"Keating, William",9,D,2351 RHOB,202-225-3111,"Foreign Affairs, Homeland Security"
+201,MI,"Bergman, Jack",1,R,414 CHOB,202-225-4735,"Natural Resources, the Budget, Veterans' Affairs"
+202,MI,"Huizenga, Bill",2,R,2232 RHOB,202-225-4401,Financial Services
+203,MI,"Amash, Justin",3,R,114 CHOB,202-225-3831,Oversight and Government
+204,MI,"Moolenaar, John",4,R,117 CHOB,202-225-3561,Appropriations
+205,MI,"Kildee, Daniel",5,D,227 CHOB,202-225-3611,Financial Services
+206,MI,"Upton, Fred",6,R,2183 RHOB,202-225-3761,Energy and Commerce
+207,MI,"Walberg, Tim",7,R,2436 RHOB,202-225-6276,"Education and the Workforce, Energy and Commerce"
+208,MI,"Bishop, Mike",8,R,428 CHOB,202-225-4872,"Education and the Workforce, the Judiciary"
+209,MI,"Levin, Sander",9,D,1236 LHOB,202-225-4961,Ways and Means
+210,MI,"Mitchell, Paul",10,R,211 CHOB,202-225-2106,"Education and the Workforce, Oversight and Government, Transportation"
+211,MI,"Trott, Dave",11,R,1722 LHOB,202-225-8171,Financial Services
+212,MI,"Dingell, Debbie",12,D,116 CHOB,202-225-4071,Energy and Commerce
+213,MI,"Conyers Jr., John",13,D,2426 RHOB,202-225-5126,the Judiciary
+214,MI,"Lawrence, Brenda",14,D,1213 LHOB,202-225-5802,"Oversight and Government, Transportation"
+215,MN,"Walz, Timothy J.",1,D,2313 RHOB,202-225-2472,"Agriculture, Veterans' Affairs"
+216,MN,"Lewis, Jason",2,R,418 CHOB,202-225-2271,"Education and the Workforce, the Budget, Transportation"
+217,MN,"Paulsen, Erik",3,R,127 CHOB,202-225-2871,Ways and Means
+218,MN,"McCollum, Betty",4,D,2256 RHOB,202-225-6631,Appropriations
+219,MN,"Ellison, Keith",5,D,2263 RHOB,202-225-4755,Financial Services
+220,MN,"Emmer, Tom",6,R,315 CHOB,202-225-2331,Financial Services
+221,MN,"Peterson, Collin C.",7,D,2204 RHOB,202-225-2165,Agriculture
+222,MN,"Nolan, Rick",8,D,2366 RHOB,202-225-6211,"Agriculture, Transportation"
+223,MS,"Kelly, Trent",1,R,1721 LHOB,202-225-4306,"Agriculture, Armed Services, Small Business"
+224,MS,"Thompson, Bennie G.",2,D,2466 RHOB,202-225-5876,Homeland Security
+225,MS,"Harper, Gregg",3,R,2227 RHOB,202-225-5031,"Energy and Commerce, House Administration"
+226,MS,"Palazzo, Steven",4,R,2349 RHOB,202-225-5772,Appropriations
+227,MO,"Clay Jr., William ""Lacy""",1,D,2428 RHOB,202-225-2406,"Financial Services, Oversight and Government"
+228,MO,"Wagner, Ann",2,R,435 CHOB,202-225-1621,"Financial Services, Foreign Affairs"
+229,MO,"Luetkemeyer, Blaine",3,R,2230 RHOB,202-225-2956,"Financial Services, Small Business"
+230,MO,"Hartzler, Vicky",4,R,2235 RHOB,202-225-2876,"Agriculture, Armed Services"
+231,MO,"Cleaver, Emanuel",5,D,2335 RHOB,202-225-4535,Financial Services
+232,MO,"Graves, Sam",6,R,1135 LHOB,202-225-7041,"Armed Services, Transportation"
+233,MO,"Long, Billy",7,R,2454 RHOB,202-225-6536,Energy and Commerce
+234,MO,"Smith, Jason",8,R,1118 LHOB,202-225-4404,Ways and Means
+235,MT,"Zinke, Ryan",At Large,R,1419 LHOB,202-225-3211,
+236,NE,"Fortenberry, Jeff",1,R,1514 LHOB,202-225-4806,Appropriations
+237,NE,"Bacon, Don",2,R,1516 LHOB,202-225-4155,"Agriculture, Armed Services, Small Business"
+238,NE,"Smith, Adrian",3,R,320 CHOB,202-225-6435,"House Administration, Ways and Means"
+239,NV,"Titus, Dina",1,D,2464 RHOB,202-225-5965,"Foreign Affairs, Transportation"
+240,NV,"Amodei, Mark",2,R,332 CHOB,202-225-6155,Appropriations
+241,NV,"Rosen, Jacky",3,D,413 CHOB,202-225-3252,"Armed Services, Science, Space, and Technology"
+242,NV,"Kihuen, Ruben",4,D,313 CHOB,202-225-9894,Financial Services
+243,NH,"Shea-Porter, Carol",1,D,1530 LHOB,202-225-5456,Armed Services
+244,NH,"Kuster, Ann",2,D,137 CHOB,202-225-5206,"Agriculture, Veterans' Affairs"
+245,NJ,"Norcross, Donald",1,D,1531 LHOB,202-225-6501,"Armed Services, Education and the Workforce"
+246,NJ,"LoBiondo, Frank",2,R,2427 RHOB,202-225-6572,"Armed Services, Intelligence (Permanent), Transportation"
+247,NJ,"MacArthur, Tom",3,R,506 CHOB,202-225-4765,Financial Services
+248,NJ,"Smith, Chris",4,R,2373 RHOB,202-225-3765,Foreign Affairs
+249,NJ,"Gottheimer, Josh",5,D,213 CHOB,202-225-4465,Financial Services
+250,NJ,"Pallone Jr., Frank",6,D,237 CHOB,202-225-4671,Energy and Commerce
+251,NJ,"Lance, Leonard",7,R,2352 RHOB,202-225-5361,"Energy and Commerce, Ethics"
+252,NJ,"Sires, Albio",8,D,2342 RHOB,202-225-7919,"Foreign Affairs, Transportation"
+253,NJ,"Pascrell Jr., Bill",9,D,2370 RHOB,202-225-5751,Ways and Means
+254,NJ,"Payne Jr., Donald",10,D,132 CHOB,202-225-3436,"Homeland Security, Transportation"
+255,NJ,"Frelinghuysen, Rodney",11,R,2306 RHOB,202-225-5034,Appropriations
+256,NJ,"Watson Coleman, Bonnie",12,D,1535 LHOB,202-225-5801,"Homeland Security, Oversight and Government"
+257,NM,"Lujan Grisham, Michelle",1,D,214 CHOB,202-225-6316,"Agriculture, the Budget"
+258,NM,"Pearce, Steve",2,R,2432 RHOB,202-225-2365,"Financial Services, Natural Resources"
+259,NM,"Lujan, Ben R.",3,D,2231 RHOB,202-225-6190,Energy and Commerce
+260,NY,"Zeldin, Lee",1,R,1517 LHOB,202-225-3826,"Financial Services, Foreign Affairs"
+261,NY,"King, Pete",2,R,339 CHOB,202-225-7896,"Financial Services, Homeland Security, Intelligence (Permanent)"
+262,NY,"Suozzi, Thomas",3,D,226 CHOB,202-225-3335,Foreign Affairs
+263,NY,"Rice, Kathleen",4,D,1508 LHOB,202-225-5516,"Homeland Security, Veterans' Affairs"
+264,NY,"Meeks, Gregory W.",5,D,2234 RHOB,202-225-3461,"Financial Services, Foreign Affairs"
+265,NY,"Meng, Grace",6,D,1317 LHOB,202-225-2601,Appropriations
+266,NY,"Velázquez, Nydia M.",7,D,2302 RHOB,202-225-2361,"Financial Services, Small Business"
+267,NY,"Jeffries, Hakeem",8,D,1607 LHOB,202-225-5936,"the Budget, the Judiciary"
+268,NY,"Clarke, Yvette D.",9,D,2058 RHOB,202-225-6231,Energy and Commerce
+269,NY,"Nadler, Jerrold",10,D,2109 RHOB,202-225-5635,"the Judiciary, Transportation"
+270,NY,"Donovan, Daniel",11,R,1541 LHOB,202-225-3371,"Foreign Affairs, Homeland Security"
+271,NY,"Maloney, Carolyn",12,D,2308 RHOB,202-225-7944,"Financial Services, Oversight and Government"
+272,NY,"Espaillat, Adriano",13,D,1630 LHOB,202-225-4365,Foreign Affairs
+273,NY,"Crowley, Joseph",14,D,1035 LHOB,202-225-3965,Ways and Means
+274,NY,"Serrano, José E.",15,D,2354 RHOB,202-225-4361,Appropriations
+275,NY,"Engel, Eliot",16,D,2462 RHOB,202-225-2464,"Energy and Commerce, Foreign Affairs"
+276,NY,"Lowey, Nita",17,D,2365 RHOB,202-225-6506,Appropriations
+277,NY,"Maloney, Sean Patrick",18,D,1027 LHOB,202-225-5441,"Agriculture, Transportation"
+278,NY,"Faso, John",19,R,1616 LHOB,202-225-5614,"Agriculture, the Budget, Transportation"
+279,NY,"Tonko, Paul D.",20,D,2463 RHOB,202-225-5076,Energy and Commerce
+280,NY,"Stefanik, Elise",21,R,318 CHOB,202-225-4611,"Armed Services, Education and the Workforce, Intelligence (Permanent)"
+281,NY,"Tenney, Claudia",22,R,512 CHOB,202-225-3665,Financial Services
+282,NY,"Reed, Tom",23,R,2437 RHOB,202-225-3161,Ways and Means
+283,NY,"Katko, John",24,R,1620 LHOB,202-225-3701,"Homeland Security, Transportation"
+284,NY,"Slaughter, Louise",25,D,2469 RHOB,202-225-3615,Rules
+285,NY,"Higgins, Brian",26,D,2459 RHOB,202-225-3306,"the Budget, Ways and Means"
+286,NY,"Collins, Chris",27,R,1117 LHOB,202-225-5265,Energy and Commerce
+287,NC,"Butterfield, G.K.",1,D,2080 RHOB,202-225-3101,Energy and Commerce
+288,NC,"Holding, George",2,R,1110 LHOB,202-225-3032,Ways and Means
+289,NC,"Jones, Walter B.",3,R,2333 RHOB,202-225-3415,Armed Services
+290,NC,"Price, David",4,D,2108 RHOB,202-225-1784,Appropriations
+291,NC,"Foxx, Virginia",5,R,2262 RHOB,202-225-2071,"Education and the Workforce, Oversight and Government"
+292,NC,"Walker, Mark",6,R,1305 LHOB,202-225-3065,"House Administration, Oversight and Government"
+293,NC,"Rouzer, David",7,R,424 CHOB,202-225-2731,"Agriculture, Natural Resources, Transportation"
+294,NC,"Hudson, Richard",8,R,429 CHOB,202-225-3715,Energy and Commerce
+295,NC,"Pittenger, Robert",9,R,224 CHOB,202-225-1976,Financial Services
+296,NC,"McHenry, Patrick T.",10,R,2334 RHOB,202-225-2576,Financial Services
+297,NC,"Meadows, Mark",11,R,1024 LHOB,202-225-6401,"Foreign Affairs, Oversight and Government, Transportation"
+298,NC,"Adams, Alma",12,D,222 CHOB,202-225-1510,"Agriculture, Education and the Workforce"
+299,NC,"Budd, Ted",13,R,118 CHOB,202-225-4531,Financial Services
+300,ND,"Cramer, Kevin",At Large,R,1717 LHOB,202-225-2611,Energy and Commerce
+301,MP,"Sablan, Gregorio",At Large,D,2411 RHOB,202-225-2646,"Education and the Workforce, Natural Resources"
+302,OH,"Chabot, Steve",1,R,2371 RHOB,202-225-2216,"Foreign Affairs, Small Business, the Judiciary"
+303,OH,"Wenstrup, Brad",2,R,2419 RHOB,202-225-3164,"Armed Services, Intelligence (Permanent), Veterans' Affairs"
+304,OH,"Beatty, Joyce",3,D,133 CHOB,202-225-4324,Financial Services
+305,OH,"Jordan, Jim",4,R,2056 RHOB,202-225-2676,"Oversight and Government, the Judiciary"
+306,OH,"Latta, Robert E.",5,R,2448 RHOB,202-225-6405,Energy and Commerce
+307,OH,"Johnson, Bill",6,R,1710 LHOB,202-225-5705,"Energy and Commerce, the Budget"
+308,OH,"Gibbs, Bob",7,R,2446 RHOB,202-225-6265,"Agriculture, Transportation"
+309,OH,"Davidson, Warren",8,R,1004 LHOB,202-225-6205,Financial Services
+310,OH,"Kaptur, Marcy",9,D,2186 RHOB,202-225-4146,Appropriations
+311,OH,"Turner, Michael",10,R,2368 RHOB,202-225-6465,"Armed Services, Intelligence (Permanent)"
+312,OH,"Fudge, Marcia L.",11,D,2344 RHOB,202-225-7032,"Agriculture, Education and the Workforce"
+313,OH,"Tiberi, Pat",12,R,1203 LHOB,202-225-5355,Ways and Means
+314,OH,"Ryan, Tim",13,D,1126 LHOB,202-225-5261,Appropriations
+315,OH,"Joyce, David",14,R,1124 LHOB,202-225-5731,Appropriations
+316,OH,"Stivers, Steve",15,R,1022 LHOB,202-225-2015,Financial Services
+317,OH,"Renacci, Jim",16,R,328 CHOB,202-225-3876,"the Budget, Ways and Means"
+318,OK,"Bridenstine, Jim",1,R,216 CHOB,202-225-2211,"Armed Services, Science, Space, and Technology"
+319,OK,"Mullin, Markwayne",2,R,1113 LHOB,202-225-2701,Energy and Commerce
+320,OK,"Lucas, Frank",3,R,2405 RHOB,202-225-5565,"Agriculture, Financial Services, Science, Space, and Technology"
+321,OK,"Cole, Tom",4,R,2467 RHOB,202-225-6165,"Appropriations, Rules, the Budget"
+322,OK,"Russell, Steve",5,R,128 CHOB,202-225-2132,"Armed Services, Oversight and Government"
+323,OR,"Bonamici, Suzanne",1,D,439 CHOB,202-225-0855,"Education and the Workforce, Science, Space, and Technology"
+324,OR,"Walden, Greg",2,R,2185 RHOB,202-225-6730,Energy and Commerce
+325,OR,"Blumenauer, Earl",3,D,1111 LHOB,202-225-4811,Ways and Means
+326,OR,"DeFazio, Peter",4,D,2134 RHOB,202-225-6416,Transportation
+327,OR,"Schrader, Kurt",5,D,2431 RHOB,202-225-5711,Energy and Commerce
+328,PA,"Brady, Robert",1,D,2004 RHOB,202-225-4731,"Armed Services, House Administration"
+329,PA,"Evans, Dwight",2,D,1105 LHOB,202-225-4001,"Agriculture, Small Business"
+330,PA,"Kelly, Mike",3,R,1707 LHOB,202-225-5406,Ways and Means
+331,PA,"Perry, Scott",4,R,1207 LHOB,202-225-5836,"Foreign Affairs, Homeland Security, Transportation"
+332,PA,"Thompson, Glenn W.",5,R,124 CHOB,202-225-5121,"Agriculture, Education and the Workforce, Natural Resources"
+333,PA,"Costello, Ryan",6,R,326 CHOB,202-225-4315,Energy and Commerce
+334,PA,"Meehan, Pat",7,R,2305 RHOB,202-225-2011,"Ethics, Ways and Means"
+335,PA,"Fitzpatrick, Brian",8,R,514 CHOB,202-225-4276,"Foreign Affairs, Homeland Security, Small Business"
+336,PA,"Shuster, Bill",9,R,2079 RHOB,202-225-2431,"Armed Services, Transportation"
+337,PA,"Marino, Tom",10,R,2242 RHOB,202-225-3731,"Foreign Affairs, Homeland Security, the Judiciary"
+338,PA,"Barletta, Lou",11,R,2049 RHOB,202-225-6511,"Education and the Workforce, Homeland Security, Transportation"
+339,PA,"Rothfus, Keith",12,R,1205 LHOB,202-225-2065,Financial Services
+340,PA,"Boyle, Brendan",13,D,1133 LHOB,202-225-6111,"Foreign Affairs, the Budget"
+341,PA,"Doyle, Mike",14,D,239 CHOB,202-225-2135,Energy and Commerce
+342,PA,"Dent, Charles W.",15,R,2082 RHOB,202-225-6411,Appropriations
+343,PA,"Smucker, Lloyd",16,R,516 CHOB,202-225-2411,"Education and the Workforce, the Budget, Transportation"
+344,PA,"Cartwright, Matthew",17,D,1034 LHOB,202-225-5546,Appropriations
+345,PA,"Murphy, Tim",18,R,2332 RHOB,202-225-2301,Energy and Commerce
+346,PR,"González-Colón, Jenniffer",At Large,R,1529 LHOB,202-225-2615,"Natural Resources, Small Business, Veterans' Affairs"
+347,RI,"Cicilline, David",1,D,2244 RHOB,202-225-4911,"Foreign Affairs, the Judiciary"
+348,RI,"Langevin, Jim",2,D,2077 RHOB,202-225-2735,"Armed Services, Homeland Security"
+349,SC,"Sanford, Mark",1,R,2211 RHOB,202-225-3176,"Oversight and Government, the Budget, Transportation"
+350,SC,"Wilson, Joe",2,R,1436 LHOB,202-225-2452,"Armed Services, Education and the Workforce, Foreign Affairs"
+351,SC,"Duncan, Jeff",3,R,2229 RHOB,202-225-5301,"Foreign Affairs, Homeland Security"
+352,SC,"Gowdy, Trey",4,R,2418 RHOB,202-225-6030,"Ethics, Intelligence (Permanent), Oversight and Government, the Judiciary"
+353,SC,"Mulvaney, Mick",5,R,2350 RHOB,202-225-5501,
+354,SC,"Clyburn, James E.",6,D,242 CHOB,202-225-3315,
+355,SC,"Rice, Tom",7,R,223 CHOB,202-225-9895,Ways and Means
+356,SD,"Noem, Kristi",At Large,R,2457 RHOB,202-225-2801,Ways and Means
+357,TN,"Roe, Phil",1,R,336 CHOB,202-225-6356,"Education and the Workforce, Veterans' Affairs"
+358,TN,"Duncan Jr., John J.",2,R,2207 RHOB,202-225-5435,"Oversight and Government, Transportation"
+359,TN,"Fleischmann, Chuck",3,R,2410 RHOB,202-225-3271,Appropriations
+360,TN,"DesJarlais, Scott",4,R,2301 RHOB,202-225-6831,"Agriculture, Armed Services, Oversight and Government"
+361,TN,"Cooper, Jim",5,D,1536 LHOB,202-225-4311,"Armed Services, Oversight and Government"
+362,TN,"Black, Diane",6,R,1131 LHOB,202-225-4231,"the Budget, Ways and Means"
+363,TN,"Blackburn, Marsha",7,R,2266 RHOB,202-225-2811,Energy and Commerce
+364,TN,"Kustoff, David",8,R,508 CHOB,202-225-4714,Financial Services
+365,TN,"Cohen, Steve",9,D,2404 RHOB,202-225-3265,"the Judiciary, Transportation"
+366,TX,"Gohmert, Louie",1,R,2243 RHOB,202-225-3035,"Natural Resources, the Judiciary"
+367,TX,"Poe, Ted",2,R,2132 RHOB,202-225-6565,"Foreign Affairs, the Judiciary"
+368,TX,"Johnson, Sam",3,R,2304 RHOB,202-225-4201,Ways and Means
+369,TX,"Ratcliffe, John",4,R,325 CHOB,202-225-6673,"Homeland Security, the Judiciary"
+370,TX,"Hensarling, Jeb",5,R,2228 RHOB,202-225-3484,Financial Services
+371,TX,"Barton, Joe",6,R,2107 RHOB,202-225-2002,Energy and Commerce
+372,TX,"Culberson, John",7,R,2161 RHOB,202-225-2571,Appropriations
+373,TX,"Brady, Kevin",8,R,1011 LHOB,202-225-4901,Ways and Means
+374,TX,"Green, Al",9,D,2347 RHOB,202-225-7508,Financial Services
+375,TX,"McCaul, Michael T.",10,R,2001 RHOB,202-225-2401,"Foreign Affairs, Homeland Security"
+376,TX,"Conaway, K. Michael",11,R,2430 RHOB,202-225-3605,"Agriculture, Armed Services, Intelligence (Permanent)"
+377,TX,"Granger, Kay",12,R,1026 LHOB,202-225-5071,Appropriations
+378,TX,"Thornberry, Mac",13,R,2208 RHOB,202-225-3706,Armed Services
+379,TX,"Weber, Randy",14,R,1708 LHOB,202-225-2831,"Science, Space, and Technology, Transportation"
+380,TX,"Gonzalez, Vicente",15,D,113 CHOB,202-225-2531,Financial Services
+381,TX,"O'Rourke, Beto",16,D,1330 LHOB,202-225-4831,"Armed Services, Veterans' Affairs"
+382,TX,"Flores, Bill",17,R,2440 RHOB,202-225-6105,Energy and Commerce
+383,TX,"Jackson Lee, Sheila",18,D,2187 RHOB,202-225-3816,"Homeland Security, the Judiciary"
+384,TX,"Arrington, Jodey",19,R,1029 LHOB,202-225-4005,"Agriculture, the Budget, Veterans' Affairs"
+385,TX,"Castro, Joaquin",20,D,1221 LHOB,202-225-3236,"Armed Services, Foreign Affairs, Intelligence (Permanent)"
+386,TX,"Smith, Lamar",21,R,2409 RHOB,202-225-4236,"Homeland Security, Science, Space, and Technology, the Judiciary"
+387,TX,"Olson, Pete",22,R,2133 RHOB,202-225-5951,Energy and Commerce
+388,TX,"Hurd, Will",23,R,317 CHOB,202-225-4511,"Homeland Security, Oversight and Government"
+389,TX,"Marchant, Kenny",24,R,2369 RHOB,202-225-6605,"Ethics, Ways and Means"
+390,TX,"Williams, Roger",25,R,1323 LHOB,202-225-9896,Financial Services
+391,TX,"Burgess, Michael",26,R,2336 RHOB,202-225-7772,"Energy and Commerce, Rules"
+392,TX,"Farenthold, Blake",27,R,2331 RHOB,202-225-7742,"Oversight and Government, the Judiciary, Transportation"
+393,TX,"Cuellar, Henry",28,D,2209 RHOB,202-225-1640,Appropriations
+394,TX,"Green, Gene",29,D,2470 RHOB,202-225-1688,Energy and Commerce
+395,TX,"Johnson, Eddie Bernice",30,D,2468 RHOB,202-225-8885,"Science, Space, and Technology, Transportation"
+396,TX,"Carter, John",31,R,2110 RHOB,202-225-3864,Appropriations
+397,TX,"Sessions, Pete",32,R,2233 RHOB,202-225-2231,Rules
+398,TX,"Veasey, Marc",33,D,1519 LHOB,202-225-9897,"Armed Services, Science, Space, and Technology"
+399,TX,"Vela, Filemon",34,D,437 CHOB,202-225-9901,"Agriculture, Homeland Security"
+400,TX,"Doggett, Lloyd",35,D,2307 RHOB,202-225-4865,Ways and Means
+401,TX,"Babin, Brian",36,R,316 CHOB,202-225-1555,"Science, Space, and Technology, Transportation"
+402,UT,"Bishop, Rob",1,R,123 CHOB,202-225-0453,"Armed Services, Natural Resources"
+403,UT,"Stewart, Chris",2,R,323 CHOB,202-225-9730,"Appropriations, Intelligence (Permanent)"
+404,UT,"Chaffetz, Jason",3,R,2236 RHOB,202-225-7751,"Oversight and Government, the Judiciary"
+405,UT,"Love, Mia",4,R,217 CHOB,202-225-3011,Financial Services
+406,VT,"Welch, Peter",At Large,D,2303 RHOB,202-225-4115,Energy and Commerce
+407,VI,"Plaskett, Stacey",At Large,D,331 CHOB,202-225-1790,"Agriculture, Oversight and Government"
+408,VA,"Wittman, Robert J.",1,R,2055 RHOB,202-225-4261,"Armed Services, Natural Resources"
+409,VA,"Taylor, Scott",2,R,412 CHOB,202-225-4215,Appropriations
+410,VA,"Scott, Robert C.",3,D,1201 LHOB,202-225-8351,Education and the Workforce
+411,VA,"McEachin, A. Donald",4,D,314 CHOB,202-225-6365,"Armed Services, Natural Resources"
+412,VA,"Garrett, Thomas",5,R,415 CHOB,202-225-4711,"Education and the Workforce, Foreign Affairs, Homeland Security"
+413,VA,"Goodlatte, Bob",6,R,2309 RHOB,202-225-5431,"Agriculture, the Judiciary"
+414,VA,"Brat, Dave",7,R,1628 LHOB,202-225-2815,"Education and the Workforce, Small Business, the Budget"
+415,VA,"Beyer, Don",8,D,1119 LHOB,202-225-4376,"Natural Resources, Science, Space, and Technology"
+416,VA,"Griffith, Morgan",9,R,2202 RHOB,202-225-3861,Energy and Commerce
+417,VA,"Comstock, Barbara",10,R,229 CHOB,202-225-5136,"House Administration, Science, Space, and Technology, Transportation"
+418,VA,"Connolly, Gerald E. ""Gerry""",11,D,2238 RHOB,202-225-1492,"Foreign Affairs, Oversight and Government"
+419,WA,"DelBene, Suzan",1,D,2442 RHOB,202-225-6311,"the Budget, Ways and Means"
+420,WA,"Larsen, Rick",2,D,2113 RHOB,202-225-2605,"Armed Services, Transportation"
+421,WA,"Herrera Beutler, Jaime",3,R,1107 LHOB,202-225-3536,Appropriations
+422,WA,"Newhouse, Dan",4,R,1318 LHOB,202-225-5816,"Appropriations, Rules"
+423,WA,"McMorris Rodgers, Cathy",5,R,1314 LHOB,202-225-2006,Energy and Commerce
+424,WA,"Kilmer, Derek",6,D,1520 LHOB,202-225-5916,Appropriations
+425,WA,"Jayapal, Pramila",7,D,319 CHOB,202-225-3106,"the Budget, the Judiciary"
+426,WA,"Reichert, David G.",8,R,1127 LHOB,202-225-7761,Ways and Means
+427,WA,"Smith, Adam",9,D,2264 RHOB,202-225-8901,Armed Services
+428,WA,"Heck, Denny",10,D,425 CHOB,202-225-9740,"Financial Services, Intelligence (Permanent)"
+429,WV,"McKinley, David",1,R,2239 RHOB,202-225-4172,Energy and Commerce
+430,WV,"Mooney, Alex",2,R,1232 LHOB,202-225-2711,Financial Services
+431,WV,"Jenkins, Evan",3,R,1609 LHOB,202-225-3452,Appropriations
+432,WI,"Ryan, Paul D.",1,R,1233 LHOB,202-225-3031,
+433,WI,"Pocan, Mark",2,D,1421 LHOB,202-225-2906,Appropriations
+434,WI,"Kind, Ron",3,D,1502 LHOB,202-225-5506,Ways and Means
+435,WI,"Moore, Gwen",4,D,2252 RHOB,202-225-4572,Financial Services
+436,WI,"Sensenbrenner, F. James",5,R,2449 RHOB,202-225-5101,"Foreign Affairs, the Judiciary"
+437,WI,"Grothman, Glenn",6,R,1217 LHOB,202-225-2476,"Education and the Workforce, Oversight and Government, the Budget"
+438,WI,"Duffy, Sean P.",7,R,2330 RHOB,202-225-3365,Financial Services
+439,WI,"Gallagher, Mike",8,R,1007 LHOB,202-225-5665,"Armed Services, Homeland Security"
+440,WY,"Cheney, Liz",At Large,R,416 CHOB,202-225-2311,"Armed Services, Natural Resources, Rules"
