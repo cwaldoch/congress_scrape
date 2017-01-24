@@ -26,6 +26,8 @@ shapeids = list(set(zones['shapeid']))
 no, no,no I need to use a patches collection
 remember to do this tomorrow, not gonna finish tonight
 I need to sleep so that I can work and still do this after
+this technically works, but I want to assign values to the patches and such,
+should probably just use bokeh for this, generate an html file
 
 """
 
