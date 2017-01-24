@@ -138,7 +138,12 @@ for key in state_districts_dict.keys():
 driver.close()
 driver.quit()
     
-df_results = pd.DataFrame(results, columns=  columns, encoding="utf-8")
+df_results = pd.DataFrame(results, columns=  columns)
 
-df_results.to_csv('congress_results.csv')
+comms = list(df_results['committees'])
+comms2 = [x.replace('\n', ', ') for x in comms]
+df_results['committees'] = comms2
+
+
+df_results.to_csv('congress_results.csv', encoding="utf-8")
     
