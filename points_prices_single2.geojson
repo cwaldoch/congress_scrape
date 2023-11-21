@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "AECI", "mag": 2.3, "time": 1507425650893, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [  -92.6024, 39.4467 , 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "AEP", "mag": 1.7, "time": 1507425289659, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -82.14345172, 39.22600521, 105.5 ] } },
+{ "type": "Feature", "properties": { "id": "ALTE.1ROCKGEN", "mag": 1.6, "time": 1507424832518, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -89.0491, 42.9756, 0.0 ] } },
+]
+}
